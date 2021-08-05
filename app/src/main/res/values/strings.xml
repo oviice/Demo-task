@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Task</string>
+    <string name="BASE_URL">https://www.test.api.liker.com/</string>
+</resources>
